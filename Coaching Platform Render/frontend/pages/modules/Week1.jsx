@@ -1,0 +1,1 @@
+// Week 1 UI with journaling + AI

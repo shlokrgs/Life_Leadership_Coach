@@ -1,0 +1,1 @@
+// Rating trend comparison chart

@@ -1,0 +1,1 @@
+# FastAPI app entry point with routers and scheduler
